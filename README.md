@@ -145,12 +145,12 @@ spring.security.oauth2.client.registration.google.client-secret=TU_GOOGLE_CLIENT
     ```
 2.  Ejecuta la aplicación:
     `bash
-    mvn spring-boot:run
-    `
+mvn spring-boot:run
+`
     O puedes ejecutar el JAR generado en `target/cashe-backend-0.0.1-SNAPSHOT.jar`:
     `bash
-    java -jar target/cashe-backend-0.0.1-SNAPSHOT.jar
-    `
+java -jar target/cashe-backend-0.0.1-SNAPSHOT.jar
+`
     La aplicación estará disponible en `http://localhost:8080` (o el puerto configurado).
 
 ## Ejecutar Pruebas
@@ -355,8 +355,8 @@ Este proyecto está bajo la **Licencia MIT**. Ver el archivo [LICENSE](LICENSE) 
 **Juan Manuel Losada**
 
 - 🐙 GitHub: [@juanmanuellosada](https://github.com/juanmanuellosada)
-- 📧 Email: [contacto@ejemplo.com](mailto:contacto@ejemplo.com)
-- 💼 LinkedIn: [Juan Manuel Losada](https://linkedin.com/in/juanmanuellosada)
+- 📧 Email: [contacto@ejemplo.com](mailto:juanmalosada01@gmail.com)
+- 💼 LinkedIn: [Juan Manuel Losada](https://www.linkedin.com/in/juanmanuel-losada/)
 
 ## 🙏 Agradecimientos
 
